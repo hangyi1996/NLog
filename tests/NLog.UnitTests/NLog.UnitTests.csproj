@@ -56,7 +56,7 @@
     <PackageReference Include="System.Data.SqlClient" Version="4.4.0" />
     <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="2.0.0" />
     <PackageReference Include="System.ServiceModel.NetTcp" Version="4.4.0" />
-    <PackageReference Include="System.ServiceModel.Primitives" Version="4.4.0" />
+    <PackageReference Include="System.ServiceModel.Primitives" Version="4.4.4" />
     <PackageReference Include="System.ServiceModel.Security" Version="4.4.0" />
 
     <ProjectReference Include="..\..\src\NLog.Wcf\NLog.Wcf.csproj">
